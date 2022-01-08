@@ -8,14 +8,15 @@
 
 	</div>
 
-	<nav>
-
-		<ul>
-			<li class:active={$page.path === '/'}><a sveltekit:prefetch href="/">Home</a></li>
-			<li class:active={$page.path === '/booking'}><a sveltekit:prefetch href="/booking">Booking</a></li>
+	<nav class="main_nav">
+		<ul class="d-flex flex-row align-items-start justify-content-start">
+		  <li class:active={$page.path === '/'}><a sveltekit:prefetch href="/">Home</a></li>
+		  <li class:active={$page.path === '/shows'}><a sveltekit:prefetch href="/shows">Shows</a></li>
+		  <li class:active={$page.path === '/music'}><a sveltekit:prefetch href="/music">Music</a></li>
+		  <li class:active={$page.path === '/booking'}><a sveltekit:prefetch href="/booking">Booking</a></li>
+		  <li class:active={$page.path === '/contact'}><a sveltekit:prefetch href="/contact">Contact</a></li>
 		</ul>
-
-	</nav>
+	  </nav>
 
 	<div class="corner">
 	</div>
