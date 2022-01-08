@@ -1,4 +1,5 @@
-# BenHammondMusic - SveleteKit Refactor
+# BenHammondMusic - SvelteKit Refactor
+
 
 Once ready, this site build will replace benhammondusic.com, but for now the work in progress site is deployed via Netlify:
 
