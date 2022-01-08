@@ -1,5 +1,7 @@
 # BenHammondMusic - SvelteKit Refactor
 
+![shows](https://user-images.githubusercontent.com/41567007/148659533-41a0350e-4815-4f1b-a4d4-54057dab0ebe.jpg)
+
 Once ready, this site build will replace benhammondusic.com, but for now the work in progress site is deployed via Netlify:
 
 > https://bhm-sk.netlify.app/
