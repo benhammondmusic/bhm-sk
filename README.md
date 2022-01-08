@@ -1,4 +1,17 @@
-# create-svelte
+# BenHammondMusic - SveleteKit Refactor
+
+Once ready, this site build will replace benhammondusic.com, but for now the work in progress site is deployed via Netlify:
+
+> https://bhm-sk.netlify.app/
+
+## Why rebuild benhammondmusic.com ?
+
+- I keep hearing great things about Svelte and Sveltekit and would love to mess around with it
+- My music site was built with simply hard coded HTML ad CSS; since I'm using React daily in my work it's painful and annoying to go back to a componentless structure
+- I was already able to save myself $12 a month simply moving my site from Hostgator to Netlify (and using a real CI/CD process via GitHub/Netlify instead of just dumping raw files onto the server via FTP like I've done since 2005)
+
+# create-svelte documentation
+
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
 
