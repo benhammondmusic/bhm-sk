@@ -17,8 +17,8 @@
 	your guests, whether that be a romantic ceremony, relaxing over cocktails, or dancing the night
 	away! My services are well suited for clients who are passionate about live music, and who are
 	seeking a fun and memorable way to enhance their celebration. Wherever you might be in your
-	planning, please <a href="mailto:hello@benhammondmusic.com">email</a> for more info, or receive a
-	custom quote by filling in my <a href="contact.html#dubsado_lead_capture">event form</a>. Let's
+	planning, please <a href="mailto:hello@benhammondmusic.com">email for more info, or receive a
+	custom quote by filling in my <a href="contact.html#dubsado_lead_capture">event form. Let's
 	make some music!
 </p>
 

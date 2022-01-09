@@ -3,6 +3,7 @@
         "benhammondusic",
         "componentless",
         "Hostgator",
+        "Obladi",
         "pnpm",
         "preprocessors",
         "sveltejs"
@@ -10,9 +11,5 @@
     "cSpell.enableFiletypes": [
         "svelte"
     ],
-    "editor.bracketPairColorization.enabled": true,
-    "[javascript]": {
-        "editor.formatOnSave": true
-    },
-    "svelte.enable-ts-plugin": true
+    "editor.bracketPairColorization.enabled": true
 }

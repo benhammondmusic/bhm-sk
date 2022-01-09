@@ -10,7 +10,8 @@
 </main>
 
 <footer>
-	<p>Site by <a href="https://benhammond.tech">benhammond.tech</a></p>
+<p>Site by <a href="https://benhammond.tech">benhammond.tech</a></p>
+
 </footer>
 
 <style>

@@ -8,9 +8,9 @@
 	Thanks for visiting! I'd love to connect on <a href="https://www.facebook.com/benhammondmusicpage"
 		>Facebook</a
 	>,
-	<a href="https://www.instagram.com/benhammondmusic">Instagram</a>,
-	<a href="https://www.linkedin.com/in/benhammondmusic/">LinkedIn</a>
-	and <a href="https://twitter.com/benhammondmusic">Twitter</a>.
+	<a href="https://www.instagram.com/benhammondmusic">Instagram,
+	<a href="https://www.linkedin.com/in/benhammondmusic/">LinkedIn
+	and <a href="https://twitter.com/benhammondmusic">Twitter.
 </p>
 <p>
 	Interested in live music for your event or concert series? <a
