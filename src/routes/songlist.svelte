@@ -9,8 +9,8 @@
 <section>
 	<h1>Song List</h1>
 
+	<!-- LIST OF ALL SONGS -->
 	<div class="songs">
-		<!-- LOOP EVERY SONG -->
 		{#each songs as song}
 			<article class="songItem">
 				<!-- EACH SONG'S TITLE -->

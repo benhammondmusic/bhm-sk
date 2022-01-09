@@ -19,21 +19,24 @@
 	<p>-Ben</p>
 
 	<p>
-		<a href="https://www.facebook.com/benhammondmusicpage" title="Facebook"
-			><i class="fa fa-facebook" aria-hidden="true" />Facebook</a
-		>
+		<a href="https://www.facebook.com/benhammondmusicpage" title="Facebook">
+			<i class="fa fa-facebook" aria-hidden="true" />
+			Facebook
+		</a>
 
-		<a href="https://www.instagram.com/benhammondmusic" title="Instagram"
-			><i class="fa fa-instagram" aria-hidden="true" />Instagram</a
-		>
+		<a href="https://www.instagram.com/benhammondmusic" title="Instagram">
+			<i class="fa fa-instagram" aria-hidden="true" />
+			Instagram
+		</a>
 
-		<a href="https://twitter.com/benhammondmusic" title="Twitter"
-			>
-			<i class="fa fa-twitter" aria-hidden="true" />Twitter</a
-		>
+		<a href="https://twitter.com/benhammondmusic" title="Twitter">
+			<i class="fa fa-twitter" aria-hidden="true" />
+			Twitter
+		</a>
 
 		<a href="https://www.linkedin.com/in/benhammondmusic" title="LinkedIn">
-			<i class="fab fa-linkedin-in" aria-hidden="true" />LinkedIn
+			<i class="fab fa-linkedin-in" aria-hidden="true" />
+			LinkedIn
 		</a>
 	</p>
 </section>
