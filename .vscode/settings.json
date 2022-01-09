@@ -6,6 +6,7 @@
         "Obladi",
         "pnpm",
         "preprocessors",
+        "songlist",
         "sveltejs"
     ],
     "cSpell.enableFiletypes": [
