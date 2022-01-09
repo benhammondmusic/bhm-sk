@@ -46,7 +46,7 @@
 	.songItem {
 		margin: 10px;
 		padding: 15px;
-		background-color: #336699;
+		background-color: #8899bb;
 		border-radius: 5px;
 		color: #ddeeff;
 		font-weight: 400;

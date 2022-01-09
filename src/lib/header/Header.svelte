@@ -1,27 +1,28 @@
 <script lang="ts">
 	import { page } from '$app/stores';
-	import logo from './svelte-logo.svg';
 </script>
 
 <header>
-	<div class="corner">
-
-	</div>
+	<div class="corner" />
 
 	<nav class="main_nav">
 		<ul class="d-flex flex-row align-items-start justify-content-start">
-<li class:active={$page.path === '/'}><a sveltekit:prefetch href="/">Home</a></li>
-<li class:active={$page.path === '/shows'}><a sveltekit:prefetch href="/shows">Shows</a></li>
-<li class:active={$page.path === '/music'}><a sveltekit:prefetch href="/music">Music</a></li>
-<li class:active={$page.path === '/songlist'}><a sveltekit:prefetch href="/songlist">Songlist</a></li>
-<li class:active={$page.path === '/booking'}><a sveltekit:prefetch href="/booking">Booking</a></li>
-<li class:active={$page.path === '/contact'}><a sveltekit:prefetch href="/contact">Contact</a></li>
-
+			<li class:active={$page.path === '/'}><a sveltekit:prefetch href="/">Home</a></li>
+			<li class:active={$page.path === '/shows'}><a sveltekit:prefetch href="/shows">Shows</a></li>
+			<li class:active={$page.path === '/music'}><a sveltekit:prefetch href="/music">Music</a></li>
+			<li class:active={$page.path === '/songlist'}>
+				<a sveltekit:prefetch href="/songlist">Songlist</a>
+			</li>
+			<li class:active={$page.path === '/booking'}>
+				<a sveltekit:prefetch href="/booking">Booking</a>
+			</li>
+			<li class:active={$page.path === '/contact'}>
+				<a sveltekit:prefetch href="/contact">Contact</a>
+			</li>
 		</ul>
-	  </nav>
+	</nav>
 
-	<div class="corner">
-	</div>
+	<div class="corner" />
 </header>
 
 <style>
@@ -38,7 +39,6 @@
 	nav {
 		display: flex;
 		justify-content: center;
-		--background: rgba(255, 255, 255, 0.7);
 	}
 
 	ul {
@@ -76,10 +76,9 @@
 		height: 100%;
 		align-items: center;
 		padding: 0 1em;
-		color: var(--heading-color);
-		font-weight: 700;
+		color: var(--pure-white);
+		font-weight: 400;
 		font-size: 0.8rem;
-		text-transform: uppercase;
 		letter-spacing: 0.1em;
 		text-decoration: none;
 		transition: color 0.2s linear;
