@@ -8,13 +8,11 @@
 	<nav class="main_nav">
 		<ul class="d-flex flex-row align-items-start justify-content-start">
 			<li class:active={$page.path === '/'}><a sveltekit:prefetch href="/">Home</a></li>
-			<li class:active={$page.path === '/shows'}><a sveltekit:prefetch href="/shows">Shows</a></li>
-			<li class:active={$page.path === '/music'}><a sveltekit:prefetch href="/music">Music</a></li>
-			<li class:active={$page.path === '/songlist'}>
-				<a sveltekit:prefetch href="/songlist">Songlist</a>
+			<li class:active={$page.path === '/originals'}>
+				<a sveltekit:prefetch href="/originals">Originals</a>
 			</li>
-			<li class:active={$page.path === '/booking'}>
-				<a sveltekit:prefetch href="/booking">Booking</a>
+			<li class:active={$page.path === '/covers'}>
+				<a sveltekit:prefetch href="/covers">Covers</a>
 			</li>
 			<li class:active={$page.path === '/contact'}>
 				<a sveltekit:prefetch href="/contact">Contact</a>
