@@ -105,8 +105,8 @@
 			"title": "Come Down"
 		},
 		{
-			"artistArray": ["Andy Samberg"],
-			"title": "Lonely Island (On A Boat) feat T-Pain"
+			"artistArray": ["Andy Samberg", "T-Pain"],
+			"title": "Lonely Island (On A Boat)"
 		},
 		{
 			"artistArray": ["Ani Difranco"],
@@ -333,7 +333,7 @@
 			"title": "I Could Beat Myself"
 		},
 		{
-			"artistArray": ["Beyonce ft/ Jay-Z"],
+			"artistArray": ["Beyonce", "Jay-Z"],
 			"title": "Crazy in Love"
 		},
 		{
@@ -341,7 +341,7 @@
 			"title": "Single Ladies"
 		},
 		{
-			"artistArray": ["Big Wild ft. Rationale"],
+			"artistArray": ["Big Wild", "Rationale"],
 			"title": "Sixes to Nines"
 		},
 		{
@@ -381,7 +381,7 @@
 			"title": "Tighten Up"
 		},
 		{
-			"artistArray": ["Blackstreet ft. Dr Dre"],
+			"artistArray": ["Blackstreet", "Dr Dre"],
 			"title": "No Diggity"
 		},
 		{
@@ -733,7 +733,7 @@
 			"title": "Heroes"
 		},
 		{
-			"artistArray": ["David Bowie ft. Stevie Ray Vaughn"],
+			"artistArray": ["David Bowie", "Stevie Ray Vaughn"],
 			"title": "Let's Dance"
 		},
 		{
@@ -789,7 +789,7 @@
 			"title": "Sultans of Swing"
 		},
 		{
-			"artistArray": ["Dirty Heads ft. Rome"],
+			"artistArray": ["Dirty Heads", "Rome"],
 			"title": "Lay Me Down"
 		},
 		{
@@ -981,7 +981,7 @@
 			"title": "H.O.L.Y."
 		},
 		{
-			"artistArray": ["Foy Vance ft. Ed Sheeran"],
+			"artistArray": ["Foy Vance", "Ed Sheeran"],
 			"title": "Guiding Light"
 		},
 		{
@@ -1565,7 +1565,7 @@
 			"title": "Walking in Memphis"
 		},
 		{
-			"artistArray": ["Mark Ronson ft. Bruno Mars"],
+			"artistArray": ["Mark Ronson", "Bruno Mars"],
 			"title": "Uptown Funk"
 		},
 		{
@@ -2593,8 +2593,8 @@
 			"title": "Chicken Fried"
 		},
 		{
-			"artistArray": ["Zac Brown"],
-			"title": "Knee Deep (featuring Jimmy Buffett)"
+			"artistArray": ["Zac Brown", "Jimmy Buffett"],
+			"title": "Knee Deep"
 		},
 		{
 			"artistArray": ["Zac Brown"],

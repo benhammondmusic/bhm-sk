@@ -13,6 +13,7 @@
 <li class:active={$page.path === '/'}><a sveltekit:prefetch href="/">Home</a></li>
 <li class:active={$page.path === '/shows'}><a sveltekit:prefetch href="/shows">Shows</a></li>
 <li class:active={$page.path === '/music'}><a sveltekit:prefetch href="/music">Music</a></li>
+<li class:active={$page.path === '/songlist'}><a sveltekit:prefetch href="/songlist">Songlist</a></li>
 <li class:active={$page.path === '/booking'}><a sveltekit:prefetch href="/booking">Booking</a></li>
 <li class:active={$page.path === '/contact'}><a sveltekit:prefetch href="/contact">Contact</a></li>
 
