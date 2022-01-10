@@ -14,5 +14,6 @@
     "cSpell.enableFiletypes": [
         "svelte"
     ],
-    "editor.bracketPairColorization.enabled": true
+    "editor.bracketPairColorization.enabled": true,
+    "workbench.preferredLightColorTheme": "Default Dark+"
 }
