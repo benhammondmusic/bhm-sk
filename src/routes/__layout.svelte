@@ -1,6 +1,8 @@
 <script lang="ts">
 	import Header from '$lib/header/Header.svelte';
 	import '../app.css';
+
+	const displayYear = new Date().getFullYear();
 </script>
 
 <Header />
@@ -10,8 +12,10 @@
 </main>
 
 <footer>
-<p>Site by <a href="https://benhammond.tech">benhammond.tech</a></p>
-
+	<p>
+		Site by <a href="https://benhammond.tech">benhammond.tech</a>
+		<span class="copyright"> &copy; {displayYear}</span>
+	</p>
 </footer>
 
 <style>
@@ -34,8 +38,10 @@
 		padding: 40px;
 	}
 
-	footer a {
-		font-weight: bold;
+	footer a,
+	footer p {
+		font-weight: 400;
+		color: var(--pure-white);
 	}
 
 	@media (min-width: 480px) {

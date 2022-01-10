@@ -1,12 +1,12 @@
 <script lang="ts">
 	import { page } from '$app/stores';
+	import logo from '../header/logo.svg';
 </script>
 
 <header>
-	<div class="corner" />
-
-	<nav class="main_nav">
-		<ul class="d-flex flex-row align-items-start justify-content-start">
+	<nav>
+		<img class="logo" src={logo} alt="Ben Hammond Music Logo" />
+		<ul>
 			<li class:active={$page.path === '/'}><a sveltekit:prefetch href="/">Home</a></li>
 			<li class:active={$page.path === '/originals'}>
 				<a sveltekit:prefetch href="/originals">Originals</a>
@@ -19,8 +19,6 @@
 			</li>
 		</ul>
 	</nav>
-
-	<div class="corner" />
 </header>
 
 <style>
@@ -29,14 +27,16 @@
 		justify-content: space-between;
 	}
 
-	.corner {
-		width: 3em;
-		height: 3em;
+	.logo {
+		height: 3rem;
+		padding-top: 1rem;
 	}
 
 	nav {
 		display: flex;
-		justify-content: center;
+		justify-content: space-between;
+		width: 100%;
+		padding-inline: 3rem;
 	}
 
 	ul {
