@@ -43,6 +43,11 @@ body::before {
 	flex-direction: column;
 }
 
+.srOnly {
+	position: absolute;
+	left: -9999px;
+}
+
 section {
 	background-color: var(--tertiary-color);
 	border-radius: 5px;

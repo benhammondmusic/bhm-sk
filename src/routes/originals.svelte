@@ -1,3 +1,6 @@
+<script>
+</script>
+
 <svelte:head>
 	<title>Music</title>
 </svelte:head>
@@ -22,14 +25,17 @@
 			<span class="buy-icons">
 				<a href="https://open.spotify.com/album/0wO71kn47uK9AA5J4NqbN9" title="Spotify">
 					<i class="fa fa-spotify" aria-hidden="true" />
+					<span class="srOnly">Spotify</span>
 				</a>
 				<a
 					href="https://music.apple.com/us/album/gone-to-california-single/1231607849"
 					title="Apple Music"
 					><i class="fa fa-apple" aria-hidden="true" />
+					<span class="srOnly">Apple Music</span>
 				</a>
 				<a href="https://www.amazon.com/dp/B071YQK9BL/ref=ap_ws_tlw_trk2" title="Amazon Music"
 					><i class="fa fa-amazon" aria-hidden="true" />
+					<span class="srOnly">Amazon</span>
 				</a>
 			</span>
 		</div>
@@ -47,15 +53,18 @@
 				<a href="https://www.youtube.com/user/kindredsheeler/videos">Kindred</a> and many more.
 			</p>
 			<span class="buy-icons">
-				<a href="https://open.spotify.com/album/36tOKgpZuT9jiVnCBHxhWO" title="Listen on Spotify"
-					><i class="fa fa-spotify" aria-hidden="true" /></a
-				>
-				<a href="https://music.apple.com/us/album/friction/920576506" title="Listen on Apple Music"
-					><i class="fa fa-apple" aria-hidden="true" /></a
-				>
-				<a href="https://www.amazon.com/Friction-Ben-Hammond/dp/B00NP82T0I/" title="Amazon Music"
-					><i class="fa fa-amazon" aria-hidden="true" /></a
-				>
+				<a href="https://open.spotify.com/album/36tOKgpZuT9jiVnCBHxhWO" title="Listen on Spotify">
+					<span class="srOnly">Spotify</span>
+					<i class="fa fa-spotify" aria-hidden="true" />
+				</a>
+				<a href="https://music.apple.com/us/album/friction/920576506" title="Listen on Apple Music">
+					<span class="srOnly">Apple Music</span>
+					<i class="fa fa-apple" aria-hidden="true" />
+				</a>
+				<a href="https://www.amazon.com/Friction-Ben-Hammond/dp/B00NP82T0I/" title="Amazon Music">
+					<span class="srOnly">Amazon</span>
+					<i class="fa fa-amazon" aria-hidden="true" />
+				</a>
 			</span>
 		</div>
 	</article>
@@ -75,16 +84,23 @@
 				songs. Video by Michael Dana.
 			</p>
 			<span class="buy-icons">
-				<a href="https://open.spotify.com/album/3DTF0fum9uhqGxOS2czdaf" title="Spotify"
-					><i class="fa fa-spotify" aria-hidden="true" /></a
-				>
+				<a href="https://open.spotify.com/album/3DTF0fum9uhqGxOS2czdaf" title="Spotify">
+					<span class="srOnly">Spotify</span>
+					<i class="fa fa-spotify" aria-hidden="true" />
+				</a>
 				<a
 					href="https://music.apple.com/us/album/solo-at-stone-mt-arts-center/417555127"
-					title="Apple Music"><i class="fa fa-apple" aria-hidden="true" /></a
+					title="Apple Music"
+				>
+					<span class="srOnly">Apple Music</span>
+					<i class="fa fa-apple" aria-hidden="true" /></a
 				>
 				<a
 					href="https://www.amazon.com/Solo-Stone-Mt-Arts-Center/dp/B004MFOCQW/"
-					title="Amazon Music"><i class="fa fa-amazon" aria-hidden="true" /></a
+					title="Amazon Music"
+				>
+					<span class="srOnly">Amazon</span>
+					<i class="fa fa-amazon" aria-hidden="true" /></a
 				>
 			</span>
 		</div>
@@ -107,16 +123,23 @@
 				<a href="https://www.jonathanlindhorst.com/">Jon Lindhorst</a>, and more.
 			</p>
 			<span class="buy-icons">
-				<a href="https://open.spotify.com/album/4P8v3P5so2Re7e2JcvuluA" title="Spotify"
-					><i class="fa fa-spotify" aria-hidden="true" /></a
+				<a href="https://open.spotify.com/album/4P8v3P5so2Re7e2JcvuluA" title="Spotify">
+					<span class="srOnly">Spotify</span>
+					<i class="fa fa-spotify" aria-hidden="true" /></a
 				>
 				<a
 					href="https://music.apple.com/us/album/reasonably-honest-extended-edition/350749973"
-					title="Apple Music"><i class="fa fa-apple" aria-hidden="true" /></a
+					title="Apple Music"
+				>
+					<span class="srOnly">Apple Music</span>
+					<i class="fa fa-apple" aria-hidden="true" /></a
 				>
 				<a
 					href="https://www.amazon.com/Reasonably-Honest-Ben-Hammond/dp/B0038AN416/"
-					title="Amazon Music"><i class="fa fa-amazon" aria-hidden="true" /></a
+					title="Amazon Music"
+				>
+					<span class="srOnly">Amazon</span>
+					<i class="fa fa-amazon" aria-hidden="true" /></a
 				>
 			</span>
 		</div>
